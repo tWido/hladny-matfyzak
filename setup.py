@@ -18,7 +18,6 @@ setup(
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
-        'Topic :: Software Development :: API'
     ],
 
     install_requires=['requests', 'BeautifulSoup', 'enum34'],
