@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='hladny-matfyzak',
+    name='hladny_matfyzak',
 
     version='0.0.5',
 
